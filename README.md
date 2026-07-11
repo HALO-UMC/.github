@@ -18,7 +18,7 @@
 <br/>
 
 <img
-  src="../halo-banner.png"
+  src="/halo-banner.png"
   width="100%"
   alt="HALO 스토리북 테마 캐릭터 배너"
 />
