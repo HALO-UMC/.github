@@ -1,24 +1,15 @@
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFF4E8,45:FFB36B,100:FF7B10&text=HALO&fontAlign=50&fontAlignY=37&fontSize=68&fontColor=ffffff&desc=관계를%20이어가는%20작은%20행동들&descAlign=50&descAlignY=58&descSize=18"
-  width="100%"
-  alt="HALO"
-/>
-
-<br/>
-
-<h3>익숙해서 놓치고 있던 관계를 다시 바라보다</h3>
+<h1>
+  <img src="https://raw.githubusercontent.com/조직명/.github/main/assets/logo.png" width="42">
+  HALO(안녕)
+</h1>
 
 <p>
-  부모님과 나 사이의 작은 안녕을<br/>
-  하루 한 장의 이야기로 기록합니다.
+  <b>HALO는 부모님의 취향과 삶을 알아가고, 일상 속 작은 효도를 꾸준히 실천할 수 있도록 돕는 가족 관계 서비스입니다.</b>
 </p>
 
 <br/>
 
-<img
-  src="../halo-banner.png"
+<img src="https://raw.githubusercontent.com/HALO-UMC/.github/main/assets/halo-banner.png"
   width="100%"
   alt="HALO 스토리북 테마 캐릭터 배너"
 />
