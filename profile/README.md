@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/조직명/.github/main/assets/logo.png" width="42">
+  <img src="https://raw.githubusercontent.com/HALO-UMC/.github/main/assets/logo.png" width="42">
   HALO(안녕)
 </h1>
 
