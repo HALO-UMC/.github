@@ -19,14 +19,14 @@ alt="HALO 스토리북 테마 캐릭터 배너"
 />
 
 <br/><br/>
-
+<div align="center">
 <a href="https://halo-homepage.vercel.app/" target="_blank">
   <img
     src="https://img.shields.io/badge/TEAM%20HALO%20HOMEPAGE-FF7B10?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Team HALO Homepage"
   />
 </a>
-
+</div>
 <br/><br/>
 
 <p>
