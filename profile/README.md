@@ -273,23 +273,12 @@ Team HALO 공식 홈페이지에서 확인할 수 있습니다.
 
 <br/>
 
-<h3>부모님과 나 사이의 작은 안녕</h3>
+<h3>HALO(안녕)</h3>
 
 <p>
   누구나, 매일, 가볍게<br/>
   부모님의 안녕을 전할 수 있도록.
 </p>
-
-<br/>
-
-<b>HALO · 관계를 이어가는 작은 행동들</b>
-
-<br/><br/>
-
-<a href="https://halo-homepage.vercel.app/" target="_blank">
-  Team HALO Homepage
-</a>
-
 <br/><br/>
 
 <img
